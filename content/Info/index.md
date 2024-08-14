@@ -11,15 +11,14 @@ unifiedAlt: ''
 _build:
   publishResources: false
 ---
+I spend lots of time meditating, and as an occasional writer, I have to introduce myself to others, so I made an introduction board:<br>
+🥖Best favorite Swimming and Cycling <br>
+🍞Best at Unlimited fantasy and Lying on the sofa<br>
+🍩Best love Sleep more while young<br>
+🥯Best interesting Work all day, but happy my time in night <br>
+Breathing exercises are the foundation of meditation. <br>
+Deep focused breathing helps get oxygen into your blood and can change your emotional state.<br>
+<u>[About me ↗](/about/)</u><br>
+Site Writed by <u>[🥝](/about/)</u>.
 
-Bridget is a _minimal_ Hugo theme designed for photographers/visual artists, powered by <u>[Solid.js](https://www.solidjs.com)</u>.
-
-The inspiration for this theme came from a video by <u>[Hyperlexed](https://www.youtube.com/@Hyperplexed)</u>, which can be found <u>[here](https://www.youtube.com/watch?v=Jt3A2lNN2aE)</u>. Initially, it was developed using no third-party dependencies. However, after website designer <u>[Tyler McRobert](https://tylermcrobert.com)</u> made the source code publicly available, I realized that I have invented many unnecessary wheels, and this project was modified to porting the original design to Hugo while focusing on _performance_.
-
-Once again, great shout out to <u>[Tyler McRobert](https://tylermcrobert.com)</u> for his inspiration to this project.
-
-[GitHub Repo ↗](https://github.com/Sped0n/bridget)
-
-Original site design by <u>[Tyler McRobert](https://tylermcrobert.com)</u>.
-
-&copy; {{< year >}} <u>[Spedon](https://github.com/Sped0n)</u> | Built with Hugo
+&copy; {{< year >}} <u>[KiWi](https://hellobear.hotglue.me)</u> | Built used Bridget.
