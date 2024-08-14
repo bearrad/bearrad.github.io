@@ -11,5 +11,5 @@ unifiedAlt: '© kiwi'
 _build:
   publishResources: false
 ---
-haha,这里是可爱的狗狗。
-from Ins.
+haha.Virtual natives have had mostly digital experiences not a lot of analog. 
+So, theyaren’t beholden to older technology and mental models.
