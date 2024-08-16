@@ -18,7 +18,9 @@ I spend lots of time meditating, and as an occasional writer, I have to introduc
 🥯Best interesting Work all day, but happy my time in night <br>
 Breathing exercises are the foundation of meditation. <br>
 Deep focused breathing helps get oxygen into your blood and can change your emotional state.<br>
-<u>[About me ↗](/about/)</u><br>
-Site Writed by <u>[🥝](/about/)</u>.
+
+**KiWi Blog:**<br>
+
+🥝001 <u>[Site Writed↗](/kiwimepage/)</u>.<br>
 
 &copy; {{< year >}} <u>[KiWi](https://hellobear.hotglue.me)</u> | Built used Bridget.

@@ -2,6 +2,11 @@
 type: _default
 layout: single
 url: /about/
+menu:
+  main:
+    weight: 5
+    identifier: About
+    title: About
 unifiedAlt: ''
 _build:
   publishResources: false
