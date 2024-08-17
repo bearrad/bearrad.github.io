@@ -11,15 +11,6 @@ unifiedAlt: ''
 _build:
   publishResources: false
 ---
-
-**Making your passion long time** 
-
-> 让你的激情成为常态
-
-It’s like being a professional athlete.
-
-You need to be prepared to do the hours. You need to practice. You need to do all this for free. With no financial gain.
-
-At a certain point you get your opportunity to do something bigger. So you can put your skills to the test.
-
-The ones that become the best are the ones that dedicate more hours that their competitor.
+让你的激情成为常态 <br>
+我是一个喜欢收集各类好物的“收藏家”，把我喜欢的、发现的都放在这，和大家分享。 <br>
+如果你觉着侵犯产权，请联系我<u>HelloBearcom@outlook.com</u>删除。

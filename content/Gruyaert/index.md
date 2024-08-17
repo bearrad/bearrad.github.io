@@ -11,4 +11,3 @@ unifiedAlt: '© Harry Gruyaert'
 _build:
   publishResources: false
 ---
-<u>[About me ↗](/about/)</u>.<br>
